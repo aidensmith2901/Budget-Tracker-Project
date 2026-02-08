@@ -1,0 +1,11 @@
+#centerer {
+    align: center middle;
+}
+
+#ratio-box {
+    align: center middle;
+    border: solid green;
+}
+#ratio-box {
+    padding: 2;
+}

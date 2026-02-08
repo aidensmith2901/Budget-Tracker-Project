@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+.eggs/
+
+# Local database (keep schema/sample data in repo if you add it later)
+data/*.db
+
+# C++ build artifacts
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.o
+*.out
+
+# IDE / editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env and logs
+.env
+*.log
