@@ -1,0 +1,5 @@
+# Existing TUI app
+textual>=0.40.0
+
+# Web UI (dashboard)
+flask>=3.0.0
